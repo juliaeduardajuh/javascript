@@ -1,0 +1,19 @@
+body{
+    background-color: #b00ee6;
+    text-align: center;
+    align-items: center;
+   
+}
+div{
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    max-height: 1000px;
+    margin: 0 auto;
+}
+div > input{
+    margin-top: 30px;
+}
+div > button{
+    margin-top: 20px;
+}

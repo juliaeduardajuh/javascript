@@ -1,0 +1,39 @@
+body {
+    background-color: lavender;
+    text-align: center;
+    align-items: center;
+    
+}
+.tudo{
+    background-color: #FEFBE9;
+    border-radius: 10px;
+    width: 600px;
+    max-height: 1000px;
+    margin-left: 420px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+div > button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "LEMONMILK-Regular_1_.ttf";
+}
+.verde {
+    color: green;
+}
+.vermelho {
+    color:red;
+}
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tamanho {
+    width: 300px;
+}
+.diggo {
+    display: flex;
+}
+img{
+    max-height: 150px;
+}
